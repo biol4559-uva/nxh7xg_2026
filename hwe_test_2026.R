@@ -112,4 +112,5 @@ p2
 
 ggsave(p2, file="~/hwe_plot2.pdf")
 
-
+git config --global user.email "nxh7xg@virginia.edu"
+git config --global user.name "Jack Drescher"
