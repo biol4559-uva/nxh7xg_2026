@@ -90,7 +90,7 @@ p1
 ggsave(p1, file="~/hwe_plot.pdf")
 
 
-#-----------
+#--------------
 
 ##function
 hwe <- function(p,q){
